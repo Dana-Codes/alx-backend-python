@@ -30,7 +30,3 @@ What you should learn from this project:
 - Import async_comprehension from the previous file and write a measure_runtime coroutine that will execute async_comprehension four times in parallel using asyncio.gather.
 
 ---
-
-## Author
-
-- **Daniel Nathan** - (https://github.com/Dana-Codes)
